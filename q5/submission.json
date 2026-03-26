@@ -1,0 +1,7 @@
+{
+  "prompt": "A single ancient tree photographed from below against a dark twilight sky. The tree has large colorful glowing leaves in blue, green, red, pink, yellow representing different human languages. Most leaves have already fallen and lie dark and still on the ground below as a carpet of extinguished color. Only a few dozen luminous leaves cling to the upper branches. No text, no labels, no axes. Photorealistic, cinematic lighting, deeply melancholic atmosphere.",
+  "model": "Ideogram 2",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://www.unesco.org/languages-atlas/",
+  "insight": "Of the world's 7,000 languages, over 3,000 are endangered and one disappears every two weeks, silencing entire ways of knowing the world."
+}
