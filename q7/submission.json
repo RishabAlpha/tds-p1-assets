@@ -1,0 +1,8 @@
+{
+  "prompt": "Japanese Edo-period ukiyo-e woodblock print style, Katsushika Hokusai. A small figure descends a steep mountain by following the path of least resistance, always stepping downward into the deepest valley visible from their current position, never looking far ahead. The mountain has multiple false valleys and one deep central valley. Flat unmodulated color areas in indigo, ochre, and cream. Bold black outlines. Visible woodblock texture. Stark figure-ground contrast. Diagonal composition. No text, no labels, no mathematical notation. Negative prompt: photorealistic, 3D, gradients, photographic shading, modern",
+  "model": "Ideogram 2",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Edo-period ukiyo-e woodblock print",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "Targeted Hokusai's flat unmodulated color areas, bold black outlines, indigo-ochre-cream palette, diagonal mountain compositions, and stark figure-ground contrast — grammar not just surface texture."
+}
